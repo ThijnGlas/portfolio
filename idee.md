@@ -1,0 +1,3 @@
+Ik ben van plan een nieuwe website te maken over mezelf. deze portofolio website krijgt een inlog systeem waarmee je in contact met me kan komen en zodat ik in contact met hun kan komen, een blog zodat ik projecten of ideeen kan plaatsen en daar comments onder kan krijgen, een form waar je opmerkingen kan plaatsen die goedgekeurd kunnen worden zodat je mensen hun mening over me kan lezen.
+
+ik wil een overzichttelijke website met veel lege ruimte, de website krijgt een grijzige/donkere tint. een paar foto's maar niet te veel. ik wil ook een paar animaties op de website hebben.
